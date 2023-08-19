@@ -23,7 +23,7 @@
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avadhesh shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avadhesh shukla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shukla-1636av' target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avadhesh shukla" height="30" width="40" /></a>
 <a href="https://instagram.com/__branded_pandit_1008___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__branded_pandit_1008___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/avadheshshukla11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avadheshshukla11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avadhesh_shukla-1636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avadhesh_shukla-1636" height="30" width="40" /></a>
