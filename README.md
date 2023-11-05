@@ -15,16 +15,19 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<p><img align="left" src="https://img.shields.io/badge/Java-90%25-blue" alt="Java" /></p>
+### ⚙️ &nbsp;Skills Proficiency
 
-<p><img align="left" src="https://img.shields.io/badge/SpringBoot-90%25-brightgreen" alt="SpringBoot" /></p>
-
-<p><img align="left" src="https://img.shields.io/badge/HTML%20%26%20CSS-10%25-orange" alt="HTML & CSS" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avadheshshukla&show_icons=true&locale=en&layout=compact" alt="avadheshshukla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadheshshukla&show_icons=true&locale=en" alt="avadheshshukla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadheshshukla&" alt="avadheshshukla" /></p>  
+
+#### Proficiency
+- Java: 90%
+- Spring Boot: 90%
+- HTML/CSS: 10%
+
 
 
 
