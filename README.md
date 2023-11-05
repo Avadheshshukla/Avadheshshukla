@@ -15,21 +15,6 @@
 
 
 
-### ⚙️ &nbsp;Skills Proficiency
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avadheshshukla&show_icons=true&locale=en&layout=compact" alt="avadheshshukla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadheshshukla&show_icons=true&locale=en" alt="avadheshshukla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadheshshukla&" alt="avadheshshukla" /></p>  
-
-#### Proficiency
-- Java: 90%
-- Spring Boot: 90%
-- HTML/CSS: 10%
-
-
-
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
