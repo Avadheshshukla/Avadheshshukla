@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avadhesh Shukla 👨🏻‍💻 &nbsp</h1>
 <!-- <h3 align="center">A passionate Software Engineer from India.</h3>
 <h4 align="center">Currently learning about DSA and SpringBoot Development..</h4> -->
-**Glad to see you here! 👋**
+<h1>Glad to see you here! 👋</h1>
   
 <h3>👨‍💻 I am a passionate Java Backend Developer with a knack for crafting robust and scalable backend solutions. With a solid foundation in computer science and a keen eye for detail, I thrive on turning complex problems into elegant, efficient, and maintainable code. 🚀</h3>
 
