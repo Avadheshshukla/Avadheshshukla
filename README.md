@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Avadhesh Shukla 👨🏻‍💻 &nbsp</h1>
 <!-- <h3 align="center">A passionate Software Engineer from India.</h3>
 <h4 align="center">Currently learning about DSA and SpringBoot Development..</h4> -->
-**Glad to see you here**
-<h3>I am a passionate Java Backend Developer with a knack for crafting robust and scalable backend solutions. With a solid foundation in computer science and a keen eye for detail, I thrive on turning complex problems into elegant, efficient, and maintainable code.</h3>
+**Glad to see you here! 👋**
+  
+<h3>👨‍💻 I am a passionate Java Backend Developer with a knack for crafting robust and scalable backend solutions. With a solid foundation in computer science and a keen eye for detail, I thrive on turning complex problems into elegant, efficient, and maintainable code. 🚀</h3>
+
 <img align = "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadheshshukla&label=Profile%20views&color=0e75b6&style=flat" alt="avadheshshukla" /> </p>
 
